@@ -1,5 +1,5 @@
 {
-  "name": "rest-api-olx.in",
+  "name": "rest-api-geeksbuying",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akashkanade9182/Rest-api-Olx.in.git"
+    "url": "git+https://github.com/akashkanade9182/Rest-api-Geeksbuying.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/akashkanade9182/Rest-api-Olx.in/issues"
+    "url": "https://github.com/akashkanade9182/Rest-api-Geeksbuying/issues"
   },
-  "homepage": "https://github.com/akashkanade9182/Rest-api-Olx.in#readme",
+  "homepage": "https://github.com/akashkanade9182/Rest-api-Geeksbuying#readme",
   "dependencies": {
     "json-server": "^0.17.1"
   }
